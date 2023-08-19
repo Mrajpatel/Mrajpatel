@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **raj202patel@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ucNPBoHsPFqmfYpnEQJSxHFd_FYC9_O-/view?usp=sharing](https://drive.google.com/file/d/1ucNPBoHsPFqmfYpnEQJSxHFd_FYC9_O-/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ucNPBoHsPFqmfYpnEQJSxHFd_FYC9_O-/view?usp=sharing)
 
 - ⚡ Fun fact **I once debugged a complex code issue while sipping coffee on top of a mountain!**
 
